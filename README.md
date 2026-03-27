@@ -2,7 +2,7 @@
 
 Bu depo, staj programı kapsamında tamamladığım Java teknik görevlerini ve projelerini içermektedir. Projeler; temel algoritmalar, metin analizi ve nesne yönelimli programlama mantığını içermektedir.
 
-## 📁 Projeler ve İçerikleri
+## Projeler ve İçerikleri
 
 ### 1. Metin (String) Analizi
 Kullanıcıdan alınan bir metnin karakter sayısını, boşluk sayısını ve sesli harf miktarını hesaplayan bir uygulamadır.
