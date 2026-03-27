@@ -20,7 +20,7 @@ Bilgisayarın rastgele tuttuğu (1-100 arası) sayıyı kullanıcının ipuçlar
 Parametre olarak dizi alan bir metodun kullanıldığı, dizideki sayıların aritmetik ortalamasını döndüren bir uygulamadır.
 * **Kullanılan Yapılar:** Methods (Fonksiyonlar), `for-each` döngüsü, `double` tip dönüşümleri.
 
-## 🛠 Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 * **Dil:** Java (JDK 17 veya üzeri)
 * **Kazanımlar:** Algoritma geliştirme, veri tipleri, döngüler ve metot kullanımı.
 
